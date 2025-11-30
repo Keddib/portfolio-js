@@ -1,0 +1,20 @@
+{
+  "name": "portfolio-js",
+  "version": "0.0.1",
+  "description": "portfolio using modern web",
+  "main": "index.html",
+  "scripts": {
+    "dev": "bun **/*.html",
+    "build": "bun build index.html --minify --outdir=dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keddib/portfolio-js.git"
+  },
+  "author": "keddib",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Keddib/portfolio-js/issues"
+  },
+  "homepage": "https://github.com/Keddib/portfolio-js#readme"
+}
