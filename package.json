@@ -4,8 +4,8 @@
   "description": "portfolio using modern web",
   "main": "index.html",
   "scripts": {
-    "dev": "bun ./src/*.html",
-    "build": "bun build ./src/*.html --minify --outdir=dist"
+    "dev": "bun ./src/index.html",
+    "build": "bun build ./src/index.html --minify --outdir=dist"
   },
   "repository": {
     "type": "git",
